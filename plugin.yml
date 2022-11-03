@@ -1,0 +1,8 @@
+main: particle.plugin.Main
+name: HelloWorld
+version: 1.0
+author: me
+description: An Example plugin
+api-version: 1.16
+commands:
+  frosty:
