@@ -1,5 +1,5 @@
 main: particle.plugin.Main
-name: HelloWorld
+name: ParticleMaker
 version: 1.0
 author: me
 description: An Example plugin
